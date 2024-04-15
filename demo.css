@@ -1,0 +1,73 @@
+#head1{
+    color: rgb(234, 94, 43); 
+    font-size: 45px;
+     width: 100px;
+      height: 50px;
+      display: inline-block;
+   }
+
+#sign_in{
+margin-left: 74%;
+width: 400px;
+height: 50px;
+padding: 20px;
+
+   
+   }
+
+  #sign2{
+    padding: 10px;
+    background-color: white;
+    border-color: rgb(245, 40, 40);
+    color: red;
+    
+  }
+  h1{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    color: rgb(76, 76, 226);
+  }
+  h2{
+    margin-left: 10px;
+  }
+  #box2{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+    
+  }
+  #box1{
+    margin: 40px;
+  }
+  img{
+    width: 100%;
+  }
+  p{
+    text-align: center;
+  }
+  
+  #box3{
+    height: 400px;
+    width: 300px;
+    
+    display: inline-block;
+    margin-left:8% ;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+  }
+  #box5{
+    margin-left: 36%;
+    height:550px;
+    width: 340px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 7px;
+  }
+
+#from1{
+    padding: 10px;
+}
+  
+  
